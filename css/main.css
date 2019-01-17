@@ -1,0 +1,16 @@
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: cornflowerblue;
+    font-size: 72px;
+    background-color: cornsilk;
+    box-shadow: 10px 10px 8px #888888;
+}
+
+#header02{
+    font-size: 40px;
+    background-color: none;
+}
+
+#bold_word{
+    font-weight: bold;
+}
